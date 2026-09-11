@@ -1,0 +1,5 @@
+{
+    "hardware_id": "12345",
+    "gps": {}, // All the possible table data
+    "rfid": {} // All the possible table data
+}
